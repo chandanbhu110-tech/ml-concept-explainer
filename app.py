@@ -20,7 +20,7 @@ st.write(
 )
 
 # Replace this with your actual Hugging Face repository ID
-ADAPTER_REPO = "lqlipse123/ml-concept-explainer"
+ADAPTER_REPO = "Iqlipse123/ml-concept-explainer"
 
 BASE_MODEL = "Qwen/Qwen2.5-0.5B-Instruct"
 
