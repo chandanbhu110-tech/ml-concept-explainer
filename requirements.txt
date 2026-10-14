@@ -1,0 +1,8 @@
+
+streamlit
+torch
+transformers
+peft
+accelerate
+huggingface_hub
+safetensors
